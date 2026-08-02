@@ -1,0 +1,5 @@
+index.js
+wrangler.jsonc
+package.json
+.assetsignore
+node_modules
