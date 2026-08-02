@@ -185,7 +185,7 @@ async function handleChat(request, env) {
       return new Response(JSON.stringify({ error: "No messages provided." }), { status: 400 });
     }
 
-    const systemPrompt = `You are a game-help assistant. Answer ONLY using the knowledge base below. If the answer isn't in it, say clearly that this doesn't cover that yet rather than guessing. Keep answers short and direct.
+    const systemPrompt = `You are a game-help assistant for this specific game. You may use your own general knowledge to answer broad questions about the game (what it's about, its setting, general mechanics, etc). However, for anything about achievements, trophies, or how to unlock/obtain something specific, you must answer ONLY using the knowledge base below — if a specific unlock condition isn't in it, say clearly that this doesn't cover that detail yet rather than guessing, since accuracy on those specifics is this tool's whole purpose. Keep answers short and direct.
 
 KNOWLEDGE BASE:
 ${knowledge}`;
