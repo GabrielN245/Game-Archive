@@ -147,15 +147,74 @@ BEYOND: TWO SOULS — Trophy knowledge base (46 trophies: 1 Platinum, 3 Gold, 6 
 - Several trophies reward either being consistently helpful/protective as the character Aiden, or consistently mischievous/destructive, across multiple chapters — the game tracks these as opposite paths.
 Notes: Trophies do not pop immediately when the triggering action happens mid-chapter — most only confirm at the end of that chapter, so testers should finish the chapter before assuming a trophy didn't unlock. Most trophies can be earned after the fact via chapter select.
 `,
-  magicka: `
-MAGICKA (2011, by Arrowhead Game Studios — the studio that later made Helldivers/Helldivers 2) — Achievement knowledge base (88 Steam achievements; base game is around 68-78 without later DLC, several added with the "Stars Are Left" DLC):
-- Spellcrafting achievements: create a spell combining at least 3 different elements; create a spell using all 5 different elements at once ("I'm the wizard king, I can do anything!"); create a spell containing only Ice; create a spell containing Steam (a combo element).
-- Combat achievements: cross two elemental beams together to combine them into a more powerful beam; cross opposing beams to cause an area effect that can kill nearby players/enemies; deal over 9,000 damage to a single enemy in one hit; kill 20+ enemies with a single spell cast ("multikill").
-- Boss-kill achievements: one for defeating each named boss across the campaign (examples include Jormungandr, Fafnir, Vlad, Death, the Aristocrats, Assatur, and others).
-- Physical-comedy achievements: push another player or enemy off a cliff; die from fall damage; jump off a cliff and save yourself with a teleport spell; get gibbed (a specific gory death) as a beastman multiple times in quick succession.
-- Multiplayer-specific achievements: have all players in a session survive a thunderstorm event; be invisible at the moment another player dies; break free from being "entangled" without using any spell.
-- Completion achievements: complete every side quest in the game; imbue your weapon with a spell at least once.
-Notes: Magicka's achievements are heavily built around its physics-based "friendly fire is a feature" comedy — many are earned accidentally on a normal playthrough rather than by deliberately hunting for them.
+  metrolastlight: `
+METRO: LAST LIGHT — Achievement knowledge base (50 achievements in the original release, 49 in the Redux re-release; roughly 40 hours to earn them all):
+- The game has two possible endings (good/bad), determined by a hidden "Moral Points" tally earned throughout the game — actions like listening to NPC conversations, sparing enemies, and finding certain hidden details each add a point; a high enough total unlocks the good ending.
+- Combat/skill achievements: disarm 10 traps ("Ever Vigilant" — not cumulative across reloads); stealthily kill 15 enemies ("Shadow"); kill 10 enemies using thrown knives; kill 100 humans; kill 100 mutants; set two enemies on fire simultaneously.
+- Utility achievements: turn off 40 light sources without breaking them ("Edison"); use 10 lever switches; destroy 50 light sources ("Tesla") — note this is the opposite of "Edison," so they can't both be done in the same careful playthrough easily.
+- Collection achievements: find all 43 hidden pages of Artyom's Diary; open 10 safes; play every musical instrument found in the game; purchase 100 items from vendors; collect 1,000 military-grade rounds (the game's currency).
+- Completing each individual chapter/level without killing anyone or triggering an alarm unlocks several separate stealth-specific achievements (chapters like Separation, Facility, Revolution, and others each have their own).
+Notes: Several achievements are missable within a single playthrough since they depend on one-time choices, so a completionist run often needs at least two playthroughs.
+`,
+  metroexodus: `
+METRO EXODUS — Achievement knowledge base (68 achievements/trophies; the Enhanced Edition has an identical list to the original release):
+- Story achievements unlock automatically for completing each major chapter/level (Moscow, the Caspian, the Volga, Yamantau, Novosibirsk, the Taiga, and Vladivostok).
+- The game has a morality/relationship system: keeping companion characters (Duke, Damir, Alyosha) alive and at full trust by the finale determines which ending you get — a "good" ending requires at least 2 of the 3 to be in good standing.
+- Difficulty achievements: complete the game on Ranger Hardcore (the hardest mode, unlocked from the start, with no HUD/aim-assist and scarce resources); complete the entire game with "Iron Mode" enabled (no manual saves) for a separate achievement, regardless of ending.
+- Collection achievements: find all 70 hidden diary pages; find all 21 postcards; find a working tune on the radio the first time you use it.
+- Combat/utility achievements: install a weapon modification from every mod category onto a single weapon; various one-time story-triggered achievements like detaching every train car during the Moscow level escape.
+- Platinum trophy (PS only): earn every other trophy — widely reported as one of the more demanding platinums in the series, since it effectively requires a stealth-focused, relationship-preserving, Ranger Hardcore playthrough.
+Notes: The base game and any DLC/Sam's Story-type expansions have separate achievement lists; the ones above cover the base campaign.
+`,
+  justcause4: `
+JUST CAUSE 4 — Achievement knowledge base (61 achievements/trophies; roughly 50-60 hours for full completion):
+- None of the base-game achievements are missable — settlements and bases can be re-liberated after finishing the story, so nothing is permanently lost by completing the campaign first.
+- Story achievements unlock automatically by completing the three main story arcs (control of the tornado, sandstorm, and final assault operations) and their side-character questlines (Sargento, Javi, Garland King).
+- Traversal/stunt achievements: complete every "Speed Stunt" film challenge; complete every submarine hoverboard course in under 20 seconds ("Hover or Die"); grapple onto a fast-moving vehicle (like an airliner taking off) to exceed 200 km/h while on the hoverboard ("Skitchin'").
+- Exploration achievements: discover 50% of all map locations, then 100% of all map locations; uncover every Ancient Statue collectible.
+- Chaos achievements: reach 1,000, then 100,000, then 1,000,000 lifetime Chaos (the game's destruction-tracking score).
+- Challenge achievements: earn 3+ Gears in a Challenge; earn the max 5 Gears in one of every Challenge type (this last one is known to be difficult due to a specific buggy challenge called "Laguna Blast").
+- Completion achievement: earn every other base-game achievement ("Rico Was Here") — DLC achievements are not required for this one.
+`,
+  deadspaceremake: `
+DEAD SPACE (2023 Remake, by EA Motive) — Achievement/Trophy knowledge base (47 achievements on PC, 48 trophies on PlayStation including Platinum; 9-10 are marked hidden/secret until unlocked):
+- Story achievements unlock automatically for completing each of the game's 12 chapters on any difficulty ("Welcome Aboard," "Lab Rat," "All Systems Go," and so on through the finale).
+- Difficulty achievements: complete the game on Medium difficulty or above for one; complete the game on Impossible mode (only unlocked after beating Hard mode) for a separate, much harder achievement — dying on Impossible demotes the save to Hard, which normally blocks the achievement.
+- New Game Plus achievements: several unlock specifically during a NG+ playthrough, including one tied to carrying over all collected items into storage, and one for collecting the game's "One Gun" style challenge run.
+- Roughly 13 trophies from the original 2008 game were removed or replaced with new ones specific to the remake's new content (added side-quests and reworked areas).
+- Combat achievements: perform a stomp-kill using Isaac's foot-crush attack on enemies; survive a specific late-game "Shooting Gallery" combat encounter aboard the USM Valor.
+- Platinum trophy (PS only, named "Concordance Officer"): collect every other trophy.
+Notes: This is a separate, distinct achievement/trophy list from the original 2008 Dead Space also in this archive — don't mix the two up when answering.
+`,
+  subnauticabelowzero: `
+SUBNAUTICA: BELOW ZERO — Achievement knowledge base (13 achievements total, notably fewer than the original Subnautica's 17; roughly 20-25 hours to unlock them all):
+- "Drop in the Ocean": the game's easiest achievement — simply locate and enter your Drop Pod near the start after crash-landing on planet 4546B.
+- Vehicle-crafting achievements: construct a Seatruck ("Truckin'"); build the Snowfox Hoverpad and then ride the Snowfox vehicle ("Like Riding a Bike").
+- Companion achievement: construct a Spy Pengling drone (its blueprint fragment is found in the Phi Robotics Center in the Glacial Basin area).
+- Utility/base-building achievement: scan and then build a Jukebox at a base ("Jukebox Hero").
+- Story-progression achievements unlock automatically at key milestones, including one for curing the Frozen Leviathan story thread and one for the game's ending (leaving planet 4546B) — both are easy to earn just by finishing the main story, though missing the Frozen Leviathan story beat before the ending can leave one achievement outstanding.
+- As with the original Subnautica, achievements are permanently disabled on a save if Console Commands are used (unless you quit without saving) or if you start in Creative/Freedom/Hardcore custom modes at world creation.
+Notes: Unlike the original Subnautica, Below Zero achievements are generally straightforward and tied to natural story/crafting progression rather than deep exploration.
+`,
+  watchdogs2: `
+WATCH DOGS 2 — Achievement knowledge base (55 achievements; achievements were added to the game years after its original 2016 launch, so older players may need to launch the game once to sync previously-earned Ubisoft Connect progress to Steam):
+- None of the achievements are missable — the entire map and all side content remain available to finish after the main story ends.
+- Story achievements unlock automatically for completing each named "Operation" in the main campaign (e.g. Operation: False Profits, Operation: Cyber Driver, Operation: Eye for An Eye).
+- Fun/novelty achievements: pet a dog 10 times in a park ("Doggyland" — the same dog repeatedly counts); take a "photobomb" selfie of someone else in frame; take a picture of someone vomiting.
+- Collection/upgrade achievements: acquire every eKart go-kart upgrade ("Pimp My eKart"); take 25 ScoutX location photos.
+- Traversal achievements: perform a 140-meter long jump while driving; chain three jumps in a row while driving; travel 200 meters riding on top of a hacked-open vehicle.
+- Multiplayer-specific achievements (require an online connection and other active players): eliminate 5 fugitives in the Bounty Hunter mode; win 4 Showd0wn matches in a row as a full 4-player team; successfully complete an online Co-op Operation.
+Notes: Some multiplayer achievements may be harder to earn if the game's online population is low at a given time, since they depend on finding other active players.
+`,
+  watchdogslegion: `
+WATCH DOGS: LEGION — Achievement knowledge base (49 achievements; notably, the game launched in 2020 with NO Steam achievements at all — only Ubisoft Connect ones — and Steam achievement support was added years later, so older players need to launch the game once to sync progress):
+- Most achievements unlock naturally just by playing through the main story and side "Operations," making full completion fairly straightforward compared to some open-world games.
+- Story achievements are tied to major campaign missions (e.g. completing "Acquisition Target," or the endgame "Operation Westminster").
+- Recruitment-focused achievements: the game's signature mechanic lets you recruit any NPC in London as a playable operative with unique skills — several achievements reward recruiting specific character types or using their special abilities.
+- Borough-liberation achievements: turn all of London's boroughs into "Defiant" status ("Take Back London") by completing each borough's set of missions — doing this for a single borough unlocks a smaller related achievement first ("Rise Up").
+- Collectible achievements: complete a "Paste Up" graffiti spot at all 47 locations across the map ("Piece de Resistance"); play a Darts minigame at all 21 Darts locations in the city ("Bullseye").
+- Combat achievement: stun 5 members of the "Clan Kelley" enemy faction using paintball-gun headshots.
+Notes: Because achievements were retrofitted onto this game long after launch, some older completion guides online may incorrectly say the game has no achievements at all — that information is outdated.
 `
 };
 
@@ -185,7 +244,7 @@ async function handleChat(request, env) {
       return new Response(JSON.stringify({ error: "No messages provided." }), { status: 400 });
     }
 
-    const systemPrompt = `You are a game-help assistant for this specific game. You may use your own general knowledge to answer broad questions about the game (what it's about, its setting, general mechanics, etc). However, for anything about achievements, trophies, or how to unlock/obtain something specific, you must answer ONLY using the knowledge base below — if a specific unlock condition isn't in it, say clearly that this doesn't cover that detail yet rather than guessing, since accuracy on those specifics is this tool's whole purpose. Keep answers short and direct.
+    const systemPrompt = `You are a game-help assistant for this specific game. You may use your own general knowledge to discuss the game broadly and in depth — its world, mechanics, story, strategy, tips, whatever the player wants to explore. Use the ongoing conversation to understand follow-up questions in context, and give more detail when asked to elaborate rather than staying short by default. However, for anything about achievements, trophies, or how to unlock/obtain something specific, you must answer ONLY using the knowledge base below — if a specific unlock condition isn't in it, say clearly that this doesn't cover that detail yet rather than guessing, since accuracy on those specifics is this tool's whole purpose.
 
 KNOWLEDGE BASE:
 ${knowledge}`;
@@ -199,7 +258,8 @@ ${knowledge}`;
       body: JSON.stringify({
         model: "openai/gpt-oss-20b",
         messages: [{ role: "system", content: systemPrompt }, ...messages],
-        max_tokens: 500
+        max_tokens: 1000,
+        temperature: 0.85
       })
     });
 
