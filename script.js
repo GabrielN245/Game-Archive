@@ -4,16 +4,22 @@
 // NOT already heavily covered by big wikis — that gap is the whole product.
 const GAMES = [
   { key: "subnautica", label: "SUBNAUTICA", sub: "deep ocean survival" },
+  { key: "subnauticabelowzero", label: "SUBNAUTICA: BELOW ZERO", sub: "deep ocean survival" },
   { key: "ancestors", label: "ANCESTORS: THE HUMANKIND ODYSSEY", sub: "human evolution survival" },
   { key: "helldivers2", label: "HELLDIVERS 2", sub: "co-op shooter" },
   { key: "metro2033", label: "METRO 2033", sub: "post-apocalyptic FPS" },
+  { key: "metrolastlight", label: "METRO: LAST LIGHT", sub: "post-apocalyptic FPS" },
+  { key: "metroexodus", label: "METRO EXODUS", sub: "post-apocalyptic FPS" },
   { key: "prisonarchitect", label: "PRISON ARCHITECT", sub: "prison management sim" },
   { key: "citiesskylines", label: "CITIES: SKYLINES", sub: "city-building sim" },
   { key: "deadspace", label: "DEAD SPACE (2008)", sub: "survival horror" },
+  { key: "deadspaceremake", label: "DEAD SPACE (2023)", sub: "survival horror" },
   { key: "justcause3", label: "JUST CAUSE 3", sub: "open-world action" },
+  { key: "justcause4", label: "JUST CAUSE 4", sub: "open-world action" },
   { key: "hydroneer", label: "HYDRONEER", sub: "mining sandbox" },
   { key: "beyondtwosouls", label: "BEYOND: TWO SOULS", sub: "narrative adventure" },
-  { key: "magicka", label: "MAGICKA", sub: "co-op spell-casting action" }
+  { key: "watchdogs2", label: "WATCH DOGS 2", sub: "open-world hacking action" },
+  { key: "watchdogslegion", label: "WATCH DOGS: LEGION", sub: "open-world hacking action" }
 ];
 
 let activeGame = GAMES[0].key;
