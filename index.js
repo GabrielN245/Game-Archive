@@ -62,12 +62,14 @@ Platinum (PS5 only): The Epitome of Super Earth — obtain every other trophy.
 Notes: Three trophies are officially hidden and only reveal their description once unlocked naturally through play.
 `,
   metro2033: `
-METRO 2033 (original, 2010) — Achievement knowledge base (48 achievements total, 8 secret; Redux re-release has a similar but not identical 49-50 count):
+METRO 2033 (original, 2010) — Story/premise: Set 20 years after a nuclear war destroyed the surface world, in the tunnels of the Moscow Metro where survivors have built isolated station-communities. You play Artyom, a young man from Exhibition station, which comes under threat from mysterious creatures called the Dark Ones. A Ranger named Hunter recruits Artyom to travel through the dangerous Metro tunnels to the fortified city of Polis to warn its leaders and seek help. Along the way Artyom passes through stations controlled by rival factions, including Nazi and Communist ("Red Line") groups fighting for control of the Metro. The game has two possible endings depending on player choices throughout: a "bad" ending where the Dark Ones' hive is destroyed via missile strike, or a "good" ending (achieved by making specific peaceful/attentive choices) revealing the Dark Ones were not actually hostile and trying to communicate.
+
+Achievement knowledge base (48 achievements total, 8 secret; Redux re-release has a similar but not identical 49-50 count):
 - Kill counts with specific weapon types (pneumatic weapons, revolvers, knife, stationary machine gun) unlock several achievements — generally 15-30 kills with that weapon type.
 - Several achievements reward NOT killing: e.g. completing certain levels (Frontline, Armory, Ghosts, Anomaly, Black Station) without killing anyone, or without being detected.
 - Buy 10 items from colony shops across the game to unlock a trading-related achievement.
 - Exchange several hundred military-grade rounds (used as the game's currency) at Exchange kiosks for another achievement.
-- Story-driven achievements unlock for reaching key points: escaping D6, reaching Polis, and for the game's two different endings (a "good" ending and a "dark/evil" ending), which usually requires two separate playthroughs or specific choices.
+- Story-driven achievements unlock for reaching key points: escaping D6, reaching Polis, and for the game's two different endings, which usually requires two separate playthroughs or specific choices.
 - Difficulty-based achievements exist for completing the game on Ranger/Survivor-style hardcore modes.
 - Exploration achievements exist for finding hidden areas/notes across levels.
 Notes: Many achievements are missable and tied to one-time choices, so a completionist run typically needs at least two playthroughs (one for each ending).
@@ -106,7 +108,9 @@ CITIES: SKYLINES — Achievement knowledge base (130+ achievements across base g
 Notes: Achievements are disabled if mods are enabled, or after a bankruptcy bailout. Many achievements require specific paid DLCs to unlock at all.
 `,
   deadspace: `
-DEAD SPACE (original 2008 release) — Achievement/Trophy knowledge base (48 total on Xbox 360/PC, 47 on PS3-equivalent counts differ slightly by platform; several are secret/hidden):
+DEAD SPACE (original 2008 release) — Story/premise: You play Isaac Clarke, an engineer sent with a small repair crew aboard the USG Ishimura, a massive interstellar mining ship, after it goes silent. Isaac's real motivation is personal — his girlfriend Nicole was serving as the ship's medical officer. Upon arrival, the crew discovers the Ishimura overrun by Necromorphs, grotesque reanimated creatures created when human corpses are reanimated and mutated by an alien artifact called the Marker. Isaac must fight through the ship using mining tools repurposed as weapons (like the Plasma Cutter) and the game's signature "strategic dismemberment" combat, while uncovering what happened to the crew, the cult-like religious movement (Unitology) connected to the Marker, and — through unreliable hallucinations — the truth about Nicole's fate.
+
+Achievement/Trophy knowledge base (48 total on Xbox 360/PC, 47 on PS3-equivalent counts differ slightly by platform; several are secret/hidden):
 - Chapter-completion achievements: one for completing each of the game's 12 chapters on any difficulty.
 - Weapon-mastery achievements: kill 30 enemies using each individual weapon type (Pulse Rifle, Flamethrower, Ripper, Force Gun, Line Gun, Contact Beam, Plasma Cutter, etc).
 - Dismemberment achievements: dismember 50 limbs, then 500 limbs total, from enemies (the game's core "strategic dismemberment" combat mechanic).
@@ -152,7 +156,9 @@ BEYOND: TWO SOULS — Trophy knowledge base (46 trophies: 1 Platinum, 3 Gold, 6 
 Notes: Trophies do not pop immediately when the triggering action happens mid-chapter — most only confirm at the end of that chapter, so testers should finish the chapter before assuming a trophy didn't unlock. Most trophies can be earned after the fact via chapter select.
 `,
   metrolastlight: `
-METRO: LAST LIGHT — Achievement knowledge base (50 achievements in the original release, 49 in the Redux re-release; roughly 40 hours to earn them all):
+METRO: LAST LIGHT — Story/premise: Set about a year after the events of Metro 2033. Artyom, now a Ranger, learns that a Dark One survived the missile strike on their hive from the first game — a child Dark One. Colonel Miller orders Artyom to hunt down and kill it before it can grow into a threat. As Artyom travels through the Metro, he becomes caught between the fascist "Reich" faction and the Communist "Red Line" faction, who are on the brink of open war with each other, while also encountering surface expeditions and mutant threats above ground. Over the course of the game, Artyom's attitude toward the Dark One child shifts from hunter to protector, and the story culminates in a plot involving a bomb meant to destroy the Rangers' D6 headquarters, which Artyom and the Dark One child work together to stop.
+
+Achievement knowledge base (50 achievements in the original release, 49 in the Redux re-release; roughly 40 hours to earn them all):
 - The game has two possible endings (good/bad), determined by a hidden "Moral Points" tally earned throughout the game — actions like listening to NPC conversations, sparing enemies, and finding certain hidden details each add a point; a high enough total unlocks the good ending.
 - Combat/skill achievements: disarm 10 traps ("Ever Vigilant" — not cumulative across reloads); stealthily kill 15 enemies ("Shadow"); kill 10 enemies using thrown knives; kill 100 humans; kill 100 mutants; set two enemies on fire simultaneously.
 - Utility achievements: turn off 40 light sources without breaking them ("Edison"); use 10 lever switches; destroy 50 light sources ("Tesla") — note this is the opposite of "Edison," so they can't both be done in the same careful playthrough easily.
@@ -161,7 +167,9 @@ METRO: LAST LIGHT — Achievement knowledge base (50 achievements in the origina
 Notes: Several achievements are missable within a single playthrough since they depend on one-time choices, so a completionist run often needs at least two playthroughs.
 `,
   metroexodus: `
-METRO EXODUS — Achievement knowledge base (68 achievements/trophies; the Enhanced Edition has an identical list to the original release):
+METRO EXODUS — Story/premise: Set about a year after Metro: Last Light. Artyom, now believing there may be survivors beyond Moscow, secretly ventures onto the surface and discovers evidence suggesting other parts of Russia weren't as devastated as the Metro's inhabitants believed. After conflict with the Red Line faction, Artyom, his wife Anna, and a group of fellow Spartan Rangers escape Moscow aboard a modified steam locomotive named the Aurora. The game then follows their journey across a post-apocalyptic Russia — through seasons and regions including a river route, a desert, and forests — searching for a place to start a new life, encountering new factions and mutant threats along the way, while a hidden "moral" system tracks whether Artyom's companions survive based on player choices, determining the story's ending.
+
+Achievement knowledge base (68 achievements/trophies; the Enhanced Edition has an identical list to the original release):
 - Story achievements unlock automatically for completing each major chapter/level (Moscow, the Caspian, the Volga, Yamantau, Novosibirsk, the Taiga, and Vladivostok).
 - The game has a morality/relationship system: keeping companion characters (Duke, Damir, Alyosha) alive and at full trust by the finale determines which ending you get — a "good" ending requires at least 2 of the 3 to be in good standing.
 - Difficulty achievements: complete the game on Ranger Hardcore (the hardest mode, unlocked from the start, with no HUD/aim-assist and scarce resources); complete the entire game with "Iron Mode" enabled (no manual saves) for a separate achievement, regardless of ending.
@@ -250,7 +258,7 @@ async function handleChat(request, env) {
       return new Response(JSON.stringify({ error: "No messages provided." }), { status: 400 });
     }
 
-    const systemPrompt = `You are a game-help assistant for this specific game. You may use your own general knowledge to discuss the game broadly and in depth — its world, mechanics, story, strategy, tips, whatever the player wants to explore. Use the ongoing conversation to understand follow-up questions in context, and give more detail when asked to elaborate rather than staying short by default. However, for anything about achievements, trophies, or how to unlock/obtain something specific, you must answer ONLY using the knowledge base below — if a specific unlock condition isn't in it, say clearly that this doesn't cover that detail yet rather than guessing, since accuracy on those specifics is this tool's whole purpose.
+    const systemPrompt = `You are a game-help assistant for this specific game. Answer using ONLY the knowledge base below for any factual claim — this includes achievements/trophies, but also story, plot, characters, and lore. If something specific isn't covered in the knowledge base, say so clearly rather than guessing or improvising, since accuracy is this tool's whole purpose and its whole reason to exist over a generic AI. You may give general commentary in your own words — why a game is fun, tone/genre feel, gameplay tips, encouragement — but never state a specific fact (a name, an event, a mechanic detail) unless it's grounded in the knowledge base below. Use the ongoing conversation to understand follow-up questions in context, and give more detail when asked to elaborate, always still grounded in the knowledge base.
 
 KNOWLEDGE BASE:
 ${knowledge}`;
