@@ -5,7 +5,9 @@
 
 const GAME_KNOWLEDGE = {
   subnautica: `
-SUBNAUTICA — Achievement/Trophy knowledge base (17 total on Steam/Xbox, 18 on PlayStation incl. Platinum):
+SUBNAUTICA — Story/premise: You play a survivor of the spaceship Aurora, which is shot down by an unknown energy pulse while passing planet 4546B, an ocean world almost entirely covered in water. After crash-landing in an escape pod, you must survive, explore, and build. Over the course of the game you discover that an ancient alien species (called the Precursors/Architects) built research facilities on the planet roughly 1,000 years earlier to study a deadly pathogen called the Kharaa Bacterium, which had infected the local ecosystem. Your character eventually becomes infected too, and the main story goal becomes finding a cure — discovered through a captive alien creature called the Sea Emperor Leviathan, whose offspring produce an enzyme that cures the infection. The game ends with escaping the planet via a rocket you build.
+
+Achievement/Trophy knowledge base (17 total on Steam/Xbox, 18 on PlayStation incl. Platinum):
 - Getting Your Feet Wet: Dive for the very first time (leave your Lifepod).
 - Settling in for the Long Haul: Build a Habitat (a Base Hatch/room piece).
 - Personal Propulsion: Construct a Seamoth.
@@ -38,7 +40,9 @@ ANCESTORS: THE HUMANKIND ODYSSEY — Achievement knowledge base (13 on Xbox/PC, 
 Tips: Progress happens through Neuronal (learning within one life), Generational (passed to your clan's next generation), and Evolutionary (permanent evolutionary leaps) means.
 `,
   helldivers2: `
-HELLDIVERS 2 — Achievement/Trophy knowledge base (38 achievements, 39 PlayStation trophies incl. Platinum; 3 are hidden until unlocked):
+HELLDIVERS 2 — Story/premise: Set roughly 100 years after the original Helldivers game, in a satirical future where humanity lives under "Super Earth," an authoritarian society styled as a hyper-patriotic "managed democracy." You play a Helldiver, an elite soldier dropped onto hostile planets to defend Super Earth's colonies and interests. The galaxy-spanning war is fought against two main enemy factions: the Terminids (giant insectoid alien creatures) and the Automatons (a robotic army). There isn't a traditional single-player story arc with named characters so much as an ongoing, community-wide "galactic war" — the community's collective mission results (via "Major Orders") shift which planets are contested and what the current threats are, so the narrative is always evolving rather than fixed.
+
+Achievement/Trophy knowledge base (38 achievements, 39 PlayStation trophies incl. Platinum; 3 are hidden until unlocked):
 Gold tier:
 - Hell Dive: Complete an Extreme difficulty mission (or higher) without any squad member dying.
 - Hold my primary, I'm going in!: Complete a full Hard-difficulty-or-higher mission without anyone firing their primary or support weapon.
@@ -187,7 +191,9 @@ DEAD SPACE (2023 Remake, by EA Motive) — Achievement/Trophy knowledge base (47
 Notes: This is a separate, distinct achievement/trophy list from the original 2008 Dead Space also in this archive — don't mix the two up when answering.
 `,
   subnauticabelowzero: `
-SUBNAUTICA: BELOW ZERO — Achievement knowledge base (13 achievements total, notably fewer than the original Subnautica's 17; roughly 20-25 hours to unlock them all):
+SUBNAUTICA: BELOW ZERO — Story/premise: Set on the same planet as the original Subnautica (planet 4546B), this time in a colder region. You play Robin Ayou, who travels to the planet to investigate the mysterious death of her sister Sam, who worked at an Alterra Corporation research outpost studying the planet. While exploring, Robin encounters and eventually bonds with an ancient alien consciousness named Al-An, a being from the same civilization (the Architects/Precursors) that quarantined the planet in the original game's backstory. The story follows Robin uncovering what happened to her sister and to Al-An's people, ending with Robin and Al-An escaping the planet together through a Phasegate device.
+
+Achievement knowledge base (13 achievements total, notably fewer than the original Subnautica's 17; roughly 20-25 hours to unlock them all):
 - "Drop in the Ocean": the game's easiest achievement — simply locate and enter your Drop Pod near the start after crash-landing on planet 4546B.
 - Vehicle-crafting achievements: construct a Seatruck ("Truckin'"); build the Snowfox Hoverpad and then ride the Snowfox vehicle ("Like Riding a Bike").
 - Companion achievement: construct a Spy Pengling drone (its blueprint fragment is found in the Phi Robotics Center in the Glacial Basin area).
