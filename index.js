@@ -26,7 +26,9 @@ Achievement/Trophy knowledge base (17 total on Steam/Xbox, 18 on PlayStation inc
 General tips: Achievements are permanently disabled on a save if Console Commands are used (unless you quit without saving) or if you play in Creative mode.
 `,
   ancestors: `
-ANCESTORS: THE HUMANKIND ODYSSEY — Achievement knowledge base (13 on Xbox/PC, some lists count 14):
+ANCESTORS: THE HUMANKIND ODYSSEY — Story/premise: There isn't a traditional plot with named characters and a fixed storyline — the game is built by Panache Digital Games (founded by Patrice Désilets, a co-creator of the first two Assassin's Creed games) around the real scientific concept of human evolution, letting you control a clan of early hominid ancestors in Neogene-period Africa starting roughly 10 million years ago. You directly control clan members, keeping them fed, hydrated, and safe from predators (like sabertooth cats and snakes) while exploring, learning skills, and passing knowledge to the next generation. The "story" is really the clan's own journey: through survival, reproduction, and accumulated discoveries, your lineage gradually evolves — physically and behaviorally — advancing through real evolutionary stages (from early tree-dwelling hominids toward more human-like species) across roughly 8 million years of in-game time, ending whenever the player reaches the final possible evolutionary leap the game allows.
+
+Achievement knowledge base (13 on Xbox/PC, some lists count 14):
 - Save the kid: tied to the opening cutscene sequence, where an elder ape carrying a baby is attacked by a Bateleur Eagle; you then gain control of the baby ape.
 - Miss Me! Miss Me!: Dodge a Machairodus' (saber-tooth cat) attack twice in one encounter.
 - Unlock the ability to walk on two legs (bipedalism) — reached by evolving your lineage's Neuronal/Generational/Evolutionary points enough to unlock the trait in the skill tree.
@@ -75,7 +77,9 @@ Achievement knowledge base (48 achievements total, 8 secret; Redux re-release ha
 Notes: Many achievements are missable and tied to one-time choices, so a completionist run typically needs at least two playthroughs (one for each ending).
 `,
   prisonarchitect: `
-PRISON ARCHITECT — Achievement knowledge base (18 Steam achievements total):
+PRISON ARCHITECT — Story/premise: Prison Architect's campaign ("Prison Stories") is a set of five connected story chapters, mostly told through cutscenes, following the fictional Prison Architect Corps and its CEO Charles Wallace as he oversees various prisons. Chapter 1 ("Death Row") introduces a death row inmate awaiting execution while you build the execution chamber for him. Chapter 2 ("Palermo") involves a powerful mob family, the Palermos, and prison politics tied to organized crime. Chapter 3 ("G.A.B.O.S.") depicts a large-scale riot at Alchemico State Prison led by an inmate named Douglas Benedict, who takes the CEO and staff hostage; you take over as acting warden to retake control. Chapter 4 ("Conviction") follows the aftermath, focusing on treatment of inmates (including Benedict's injured partner Henry Morgan) and introduces prison labor/reform programs. Chapter 5 ("Bootstraps") has you rebuild a demolished prison essentially from scratch, tying together the story's themes of punishment versus rehabilitation. Outside the campaign, the game's main mode is an open-ended sandbox where you design and manage your own prison with no fixed story.
+
+Achievement knowledge base (18 Steam achievements total):
 - Throw The Book At Them: Complete the story campaign.
 - Crowd Control: Complete all optional objectives in the "Riot" campaign chapter.
 - Reformation: Complete all optional objectives in the "Conviction" campaign chapter.
@@ -95,7 +99,9 @@ PRISON ARCHITECT — Achievement knowledge base (18 Steam achievements total):
 Notes: Achievements are disabled for a save if mods are enabled, or after taking a financial bailout from bankruptcy.
 `,
   citiesskylines: `
-CITIES: SKYLINES — Achievement knowledge base (130+ achievements across base game and DLCs; too many for a full list, so here are representative categories and examples):
+CITIES: SKYLINES — Story/premise: There is no scripted story or characters — this is an open-ended city-building simulation game in the tradition of SimCity. You start with an empty plot of land and build out zoning (residential, commercial, industrial/office), roads, utilities, and public services to grow a city from a small town into a thriving metropolis, managing budget, traffic, pollution, education, and citizen happiness along the way. If asked about "the story," clarify that the game doesn't have one — its content is player-directed city management, not narrative.
+
+Achievement knowledge base (130+ achievements across base game and DLCs; too many for a full list, so here are representative categories and examples):
 - Population milestones: achievements for reaching city population thresholds as your city grows.
 - Financial achievements: e.g. accumulating large amounts of cash, or earning a set amount through the in-game investment/stock system (put money into investments and hold for a set time without selling).
 - Transport achievements: e.g. transporting large numbers of citizens via specific transit types (trolleybuses, passenger helicopters), or building extensive metro/bus networks.
@@ -121,7 +127,9 @@ Achievement/Trophy knowledge base (48 total on Xbox 360/PC, 47 on PS3-equivalent
 Notes: The 2023 Dead Space Remake is a different, separate game with its own trophy list (48 trophies, several new ones replacing 13 from the original) — don't confuse the two when answering.
 `,
   justcause3: `
-JUST CAUSE 3 — Achievement knowledge base (66 total):
+JUST CAUSE 3 — Story/premise: Set six years after Just Cause 2, mercenary Rico Rodriguez returns to Medici, his fictional Mediterranean homeland, which has fallen under the rule of dictator General Sebastiano Di Ravello. Having cut ties with his old employer "The Agency," Rico joins a resistance movement led by his childhood friend Mario Frigo (later reuniting with old ally Dimah al-Masri) to liberate Medici's regions from Di Ravello's forces and his militia, the DRM. As the rebellion pushes back the regime, Rico also helps popular rebel figurehead Rosa Manuela survive and rise as a symbol of Medici's freedom. Di Ravello, meanwhile, pursues a doomsday plan involving Bavarium, a rare explosive/magnetic mineral unique to Medici. The story culminates in Rico confronting Di Ravello directly, ending with the dictator's defeat (killed or dying by his own hand) and Medici's liberation, with Rosa implied to become its new leader.
+
+Achievement knowledge base (66 total):
 - Chaos-based achievements: reach 1,000 / 100,000 / 1,000,000 total Chaos (the game's destruction-tracking score).
 - Story mission achievements: one for completing each of the game's main story missions (around 9 of the 66 achievements are tied directly to story missions).
 - Liberation achievements: liberate 13 settlements; fully liberate an entire province; fully liberate specific named regions (Insula Fonte, Insula Dracon, Insula Striate).
@@ -133,7 +141,9 @@ JUST CAUSE 3 — Achievement knowledge base (66 total):
 Notes: None of the base-game achievements are missable — bases and settlements can be re-liberated after finishing the story, so nothing is permanently lost by finishing the campaign first.
 `,
   hydroneer: `
-HYDRONEER — Achievement knowledge base (78 Steam achievements total; several are hidden/secret):
+HYDRONEER — Story/premise: There is no scripted story or characters — this is a sandbox mining and crafting simulation game. You start with a small plot of land and basic tools, and progress by digging up dirt (which contains raw ore), smelting it into metal bars, crafting and selling items, and reinvesting earnings into bigger drills, vehicles, and additional land/dig sites. The game is open-ended, with no main quest — its content is player-directed economic and base-building progression. If asked about "the story," clarify that the game doesn't have one.
+
+Achievement knowledge base (78 Steam achievements total; several are hidden/secret):
 - Early/tutorial achievements: turn on a lantern for the first time; sell an item at the jeweller; smelt a bar; cut a gemstone by hand; purchase a new plot of land; complete the tutorial.
 - Production-count achievements: produce 1,000 dirt from drills; process 1,000 dirt in harvesters; smelt 100 bars; cut 50 gemstones by hand; compress 100 gems in a logic compressor.
 - Economy achievements: purchase 100 items, then 1,000 items, from any store; make 100,000 HydroCoins on the stock market; accumulate 100,000 total HydroCoins.
@@ -145,7 +155,9 @@ HYDRONEER — Achievement knowledge base (78 Steam achievements total; several a
 Notes: A notable number of achievements are marked hidden and only reveal their description after being unlocked, often tied to small secrets/easter eggs (e.g. an interaction with a truck, throwing a coin in a well).
 `,
   beyondtwosouls: `
-BEYOND: TWO SOULS — Trophy knowledge base (46 trophies: 1 Platinum, 3 Gold, 6 Silver, 36 Bronze; the large majority are marked secret/hidden until unlocked):
+BEYOND: TWO SOULS — Story/premise: The game follows Jodie Holmes across roughly 15-17 years of her life, from childhood into her early twenties, told out of chronological order. As a young girl, Jodie is discovered to have a psychic bond with an invisible, powerful entity named Aiden, who can move objects, possess people, and interact with the spirit world — sometimes protectively, sometimes violently and beyond her control. Because of this, she's taken in by a government paranormal research agency (the DPA) and raised largely by scientist Nathan Dawkins, who becomes a father figure to her. As she grows, Jodie is trained and eventually used by intelligence/military organizations for missions exploiting her abilities, while also being drawn deeper into questions about the "Infraworld" (the game's afterlife-adjacent spirit realm) and what Aiden actually is. The story explores her attempts to have a normal life and relationships despite her circumstances, and builds toward major events involving a research device called "the Condenser," culminating in a climax tied to a rift between the world of the living and the spirit world, with player choices determining several possible endings for Jodie.
+
+Trophy knowledge base (46 trophies: 1 Platinum, 3 Gold, 6 Silver, 36 Bronze; the large majority are marked secret/hidden until unlocked):
 - Platinum: collect every other trophy.
 - Most trophies are tied to specific choices or actions within individual story chapters — this is a heavily narrative, choice-driven game, so many trophies reward doing something specific (or its opposite) in a given scene, rather than a skill-based challenge.
 - "Explorer" (Silver): find all 22 of the game's bonus lore/collectible items, which can only be located and collected while playing as the character Aiden.
@@ -179,7 +191,9 @@ Achievement knowledge base (68 achievements/trophies; the Enhanced Edition has a
 Notes: The base game and any DLC/Sam's Story-type expansions have separate achievement lists; the ones above cover the base campaign.
 `,
   justcause4: `
-JUST CAUSE 4 — Achievement knowledge base (61 achievements/trophies; roughly 50-60 hours for full completion):
+JUST CAUSE 4 — Story/premise: Shortly after toppling Di Ravello in Medici, Rico Rodriguez is approached by Mira Morales, who convinces him to travel to Solís, a fictional South American nation, to investigate Project Illapa — a weather-control technology her uncle Lanza Morales helped develop, which Rico's late father Miguel also worked on. Solís is ruled by dictator Oscar Espinosa, backed by his private army the Black Hand (commanded by Mira's cousin Gabriela Morales). Rico forms his own rebel group, the "Army of Chaos," and works with an archaeologist named Javi Huerta to uncover Solís's hidden history and the truth about the Espinosa family's rule, while also learning that his father was killed for refusing to let Illapa's weather-control tech be weaponized. As Rico destroys the project's regional weather-core installations, Espinosa reveals he's built a combined "super" weather core to sell to Rico's old employer, The Agency, and the story concludes with a final confrontation as Rico stops Espinosa's plan.
+
+Achievement knowledge base (61 achievements/trophies; roughly 50-60 hours for full completion):
 - None of the base-game achievements are missable — settlements and bases can be re-liberated after finishing the story, so nothing is permanently lost by completing the campaign first.
 - Story achievements unlock automatically by completing the three main story arcs (control of the tornado, sandstorm, and final assault operations) and their side-character questlines (Sargento, Javi, Garland King).
 - Traversal/stunt achievements: complete every "Speed Stunt" film challenge; complete every submarine hoverboard course in under 20 seconds ("Hover or Die"); grapple onto a fast-moving vehicle (like an airliner taking off) to exceed 200 km/h while on the hoverboard ("Skitchin'").
@@ -189,7 +203,9 @@ JUST CAUSE 4 — Achievement knowledge base (61 achievements/trophies; roughly 5
 - Completion achievement: earn every other base-game achievement ("Rico Was Here") — DLC achievements are not required for this one.
 `,
   deadspaceremake: `
-DEAD SPACE (2023 Remake, by EA Motive) — Achievement/Trophy knowledge base (47 achievements on PC, 48 trophies on PlayStation including Platinum; 9-10 are marked hidden/secret until unlocked):
+DEAD SPACE (2023 Remake, by EA Motive) — Story/premise: A ground-up remake that follows the same core story as the original 2008 game — engineer Isaac Clarke arrives aboard the mining ship USG Ishimura, which has gone silent, to search for his girlfriend Nicole and discovers the crew has been slaughtered and transformed into Necromorphs by an alien artifact called the Marker. The remake expands on the original in several ways: Isaac is now fully voiced (he was silent in the original), giving him more personality and dialogue with other characters; a supporting character named Elizabeth Cross has a much larger role than in the original, actively guiding Isaac through parts of the ship rather than only being mentioned; several minor crew members are given more characterization before their deaths; and the remake adds an entirely new secret/alternate ending, accessible only in New Game Plus, that isn't in the original release.
+
+Achievement/Trophy knowledge base (47 achievements on PC, 48 trophies on PlayStation including Platinum; 9-10 are marked hidden/secret until unlocked):
 - Story achievements unlock automatically for completing each of the game's 12 chapters on any difficulty ("Welcome Aboard," "Lab Rat," "All Systems Go," and so on through the finale).
 - Difficulty achievements: complete the game on Medium difficulty or above for one; complete the game on Impossible mode (only unlocked after beating Hard mode) for a separate, much harder achievement — dying on Impossible demotes the save to Hard, which normally blocks the achievement.
 - New Game Plus achievements: several unlock specifically during a NG+ playthrough, including one tied to carrying over all collected items into storage, and one for collecting the game's "One Gun" style challenge run.
@@ -211,7 +227,9 @@ Achievement knowledge base (13 achievements total, notably fewer than the origin
 Notes: Unlike the original Subnautica, Below Zero achievements are generally straightforward and tied to natural story/crafting progression rather than deep exploration.
 `,
   watchdogs2: `
-WATCH DOGS 2 — Achievement knowledge base (55 achievements; achievements were added to the game years after its original 2016 launch, so older players may need to launch the game once to sync previously-earned Ubisoft Connect progress to Steam):
+WATCH DOGS 2 — Story/premise: Set in the San Francisco Bay Area, following the events of the first Watch Dogs. You play Marcus Holloway, a young hacker from Oakland who was wrongly flagged as a criminal suspect by ctOS 2.0, an upgraded citywide surveillance/predictive-policing system. After proving his skill by deleting his own profile from ctOS's servers, Marcus joins DedSec, a hacktivist collective, alongside fellow hackers Sitara, Wrench, Horatio, and Josh. Together they investigate and expose Blume, the tech corporation behind ctOS 2.0, and its CTO Dušan Nemec, who is secretly using the surveillance data to manipulate elections, target activists, and profit from citizens' private information. The tone is notably more lighthearted and satirical than the darker first game, and the story also brings back Raymond "T-Bone" Kenney, a hacker from the original Watch Dogs, as a mentor figure.
+
+Achievement knowledge base (55 achievements; achievements were added to the game years after its original 2016 launch, so older players may need to launch the game once to sync previously-earned Ubisoft Connect progress to Steam):
 - None of the achievements are missable — the entire map and all side content remain available to finish after the main story ends.
 - Story achievements unlock automatically for completing each named "Operation" in the main campaign (e.g. Operation: False Profits, Operation: Cyber Driver, Operation: Eye for An Eye).
 - Fun/novelty achievements: pet a dog 10 times in a park ("Doggyland" — the same dog repeatedly counts); take a "photobomb" selfie of someone else in frame; take a picture of someone vomiting.
@@ -221,7 +239,9 @@ WATCH DOGS 2 — Achievement knowledge base (55 achievements; achievements were 
 Notes: Some multiplayer achievements may be harder to earn if the game's online population is low at a given time, since they depend on finding other active players.
 `,
   watchdogslegion: `
-WATCH DOGS: LEGION — Achievement knowledge base (49 achievements; notably, the game launched in 2020 with NO Steam achievements at all — only Ubisoft Connect ones — and Steam achievement support was added years later, so older players need to launch the game once to sync progress):
+WATCH DOGS: LEGION — Story/premise: Set in a near-future, post-Brexit London. The story opens with DedSec (the hacktivist group from earlier Watch Dogs games) foiling a bombing plot at the Palace of Westminster, but a mysterious rival group called Zero-Day frames DedSec for a wave of real bombings that kill thousands. Nearly the entire London DedSec cell is wiped out except for one survivor, Sabine Brandt, and the group's AI assistant, Bagley. In the chaos, the British government hands control of London's security to Albion, a private military company run by CEO Nigel Cass, turning the city into a surveillance-heavy police state. Sabine begins rebuilding DedSec using the game's signature mechanic — recruiting ordinary Londoners (in principle, anyone you meet) as playable operatives — to liberate the city's boroughs, investigate Zero-Day, and expose Albion's secret THEMIS project (autonomous drones meant to preemptively execute people for crimes they haven't committed yet). The story also involves the Clan Kelley crime family and a tech company called Broca Tech. A late-game twist reveals that Sabine herself is secretly the leader of Zero-Day, having orchestrated events from within DedSec for her own agenda.
+
+Achievement knowledge base (49 achievements; notably, the game launched in 2020 with NO Steam achievements at all — only Ubisoft Connect ones — and Steam achievement support was added years later, so older players need to launch the game once to sync progress):
 - Most achievements unlock naturally just by playing through the main story and side "Operations," making full completion fairly straightforward compared to some open-world games.
 - Story achievements are tied to major campaign missions (e.g. completing "Acquisition Target," or the endgame "Operation Westminster").
 - Recruitment-focused achievements: the game's signature mechanic lets you recruit any NPC in London as a playable operative with unique skills — several achievements reward recruiting specific character types or using their special abilities.
